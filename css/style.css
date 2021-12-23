@@ -204,5 +204,13 @@ nav a:focus {
 
 	.article-info {
 		order: -1;
+		font-size: 0.75rem;
+	}
+
+	.article-image {
+		width: 100%;
+		min-height: 250px;
+		object-fit: cover;
+		/* object-position: left; */
 	}
 }
