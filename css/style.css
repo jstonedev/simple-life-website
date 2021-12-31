@@ -10,6 +10,7 @@ body {
 	font-size: 1.125rem;
 	font-weight: 300;
 	color: #707070;
+	line-height: 1.6;
 }
 
 img {
@@ -54,6 +55,7 @@ a:focus {
 	color: #1792d2;
 	font-size: 0.75rem;
 	margin: 0;
+	text-transform: uppercase;
 }
 
 .article-title {
@@ -69,6 +71,8 @@ a:focus {
 	color: #1792d2;
 	text-decoration: none;
 	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1px;
 }
 
 .article-read-more:hover,
@@ -84,12 +88,14 @@ a:focus {
 .widget-title,
 .widget-post-title {
 	font-size: 1rem;
+	line-height: 1.4;
 }
 
 .widget-title {
 	text-transform: uppercase;
 	font-family: "Ubuntu", sans-serif;
 	font-weight: 700;
+	letter-spacing: 2px;
 }
 
 /* ----------
@@ -163,6 +169,8 @@ nav a {
 	color: #707070;
 	font-weight: 700;
 	padding: 0.25em 0;
+	text-transform: uppercase;
+	letter-spacing: 1px;
 }
 
 nav a:hover,
