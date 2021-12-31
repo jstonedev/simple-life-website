@@ -129,8 +129,8 @@ header {
 }
 
 footer {
-	background-color: #143774;
-	color: #fff;
+	background-color: #345480;
+	color: rgb(255, 255, 255, 0.65);
 	text-align: center;
 	padding: 3em 0;
 }
